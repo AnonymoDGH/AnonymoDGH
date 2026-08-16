@@ -110,12 +110,8 @@ pip install book-cipher-kit dns-tunnel-messenger metadata-stripper \
 
 <h2 style="font-family: 'JetBrains Mono', monospace; color: #7aa2f7; font-size: 20px; letter-spacing: 1px; margin: 0 0 1rem 0;">📊 Stats</h2>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnonymoDGH&show_icons=true&bg_color=00000000&border_color=7aa2f740&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6&count_private=true&include_all_commits=true&hide_rank=false" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymoDGH&layout=compact&bg_color=00000000&border_color=7aa2f740&title_color=7aa2f7&text_color=a9b1d6&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AnonymoDGH&theme=dark&background=00000000&border=7aa2f740&stroke=7aa2f7&ring=7aa2f7&fire=7aa2f7&currStreakNum=ffffff&sideNums=a9b1d6&currStreakLabel=7aa2f7&sideLabels=565f89&dates=565f89" width="88%"/>
+<img height="292" src="./assets/stats.svg" alt="github stats" />
+<img height="292" src="./assets/langs.svg" alt="top languages" />
 
 </div>
 </div>
@@ -127,7 +123,7 @@ pip install book-cipher-kit dns-tunnel-messenger metadata-stripper \
 
 <h2 style="font-family: 'JetBrains Mono', monospace; color: #7aa2f7; font-size: 20px; letter-spacing: 1px; margin: 0 0 1rem 0;">📈 Activity</h2>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnonymoDGH&bg_color=00000000&color=7aa2f7&line=7aa2f7&point=a9b1d6&area=true&hide_border=true&title_color=7aa2f7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="./assets/activity.svg" alt="contribution activity" width="92%"/>
 
 </div>
 </div>
@@ -140,9 +136,9 @@ pip install book-cipher-kit dns-tunnel-messenger metadata-stripper \
 <h2 style="font-family: 'JetBrains Mono', monospace; color: #7aa2f7; font-size: 20px; letter-spacing: 1px; margin: 0 0 1rem 0;">🐍 Contributions</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnonymoDGH/AnonymoDGH/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnonymoDGH/AnonymoDGH/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/AnonymoDGH/AnonymoDGH/output/github-contribution-grid-snake-dark.svg" width="92%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/snake-light.svg">
+  <img alt="contribution snake" src="./assets/snake.svg" width="92%">
 </picture>
 
 </div>
