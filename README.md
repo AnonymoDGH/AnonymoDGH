@@ -1,32 +1,8 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    GLASSMORPHIC HERO BANNER                 -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,100:0f0f2e&height=200&section=header&text=AnonymoDGH&fontSize=70&fontColor=00ff9d&fontAlignY=35&animation=fadeIn&desc=python%20%7C%20reverse%20engineering%20%7C%20automation%20%7C%20colombia&descAlignY=55&descSize=18&descColor=7a7a9a" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,100:0f0f2e&height=200&section=header&text=AnonymoDGH&fontSize=70&fontColor=00ff9d&fontAlignY=35&animation=fadeIn&desc=developer%20%7C%20automation%20engineer%20%7C%20colombia&descAlignY=55&descSize=18&descColor=7a7a9a" />
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                      TYPING ANIMATION                       -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=800&lines=I+build+things.+I+break+things.+I+automate+things.;Reverse-engineering+Discord+internals+%F0%9F%94%A7;Crafting+ridiculous+Minecraft+bots+with+mineflayer;Node.js+is+my+weapon+of+choice.;Open-source+%C2%B7+Made+in+Colombia+%F0%9F%87%A8%F0%9F%87%B4)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    QUICK STATS BADGES                       -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=800&lines=7+paquetes+Python+publicados+en+PyPI+%F0%9F%90%8D;Reverse-engineering+Qwen%2C+Baidu+y+Discord+%F0%9F%94%A7;Construyo+bots+de+Minecraft+con+mineflayer;Si+tiene+un+endpoint%2C+lo+voy+a+encontrar;Open-source+%C2%B7+Made+in+Colombia+%F0%9F%87%A8%F0%9F%87%B4)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AnonymoDGH&style=for-the-badge&color=00ff9d&labelColor=050510&label=PROFILE+VIEWS)
 &nbsp;
@@ -36,350 +12,191 @@
 
 </div>
 
-<br/>
-<br/>
+---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                        WHOAMI CARD                           -->
-<!-- ══════════════════════════════════════════════════════════ -->
+## `$ whoami`
 
-<div align="center">
-
-<div style="max-width: 950px; padding: 2.2rem; margin: 1rem auto; background: rgba(5, 5, 16, 0.25); backdrop-filter: blur(22px); -webkit-backdrop-filter: blur(22px); border-radius: 24px; border: 1.5px solid rgba(0, 255, 157, 0.18); box-shadow: 0 20px 50px rgba(0, 255, 157, 0.08), 0 0 35px rgba(0, 20, 50, 0.25) inset;">
-
-<h2 align="left" style="font-family: 'JetBrains Mono', monospace; color: #00ff9d; letter-spacing: 2px; margin-bottom: 1.2rem;">
-  <span style="color:#7fff00;">$</span> whoami
-</h2>
-
-```bash
-$ cat /proc/self/identity
-
-┌───────────────────────────────────────────────────────────────┐
-│  handle    :: AnonymoDGH                                       │
-│  location  :: Colombia 🇨🇴                                      │
-│  focus     :: automation · reverse engineering · bots           │
-│  stack     :: JavaScript/Node.js · TypeScript · whatever works  │
-│  passion   :: digging into internals & breaking abstractions    │
-│  status    :: perpetually building something cursed (but cool)  │
-└───────────────────────────────────────────────────────────────┘
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  handle    :: AnonymoDGH (P1bub)                                │
+│  location  :: Colombia 🇨🇴                                       │
+│  focus     :: security tooling · reverse engineering · bots     │
+│  stack     :: Python · JavaScript/Node.js · TypeScript · C      │
+│  publish   :: 7 paquetes en PyPI · mineflayer-schem en npm      │
+│  status    :: perpetuamente construyendo algo maldito (y cool)  │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
-<br/>
+Automato lo aburrido... y también lo que no debería automatizarse. Me meto en las tripas de las cosas: los <b>módulos de Webpack de Discord</b>, la <b>capa de protocolo de Minecraft</b>, las APIs internas de <b>Qwen y Baidu</b>, y cualquier sistema que parezca opaco. Si tiene un endpoint, un store interno o un paquete NBT, lo encuentro.
 
-<p align="left" style="font-family: 'Inter', sans-serif; font-size: 16px; line-height: 1.9; color: #c9c9dd; max-width: 90%;">
-  Automato lo aburrido... y también lo que no debería automatizarse. Me encanta meterme en las tripas de las cosas: <span style="color:#00ff9d;">módulos de Webpack de Discord</span>, la <span style="color:#00ff9d;">capa del protocolo de Minecraft</span>, APIs del navegador y cualquier sistema que parezca opaco. 
-  <br/><br/>
-  Si tiene un endpoint, un store interno o un paquete NBT, lo voy a encontrar. Desarrollo en JavaScript principalmente, aunque si el problema lo exige uso lo que sea. El resultado siempre es algo limpio, práctico y un poco travieso.
-</p>
+Últimamente: construí un <b>toolkit completo de seguridad en Python puro</b> — 7 paquetes publicados en PyPI, ~74.000 líneas de código y más de 3.400 tests.
 
-</div>
+---
 
-</div>
+## 🐍 `$ pip install` — The Toolkit
 
-<br/>
-<br/>
+> Siete herramientas de seguridad con temática de espionaje, escritas en **Python puro (stdlib only)**, con tests deterministas y publicadas en PyPI. Todas nacieron como props de investigación para ficción y terminaron siendo implementaciones reales y completas.
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                     PINNED PROJECTS                          -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<h2 style="font-family: 'JetBrains Mono', monospace; color: #00ff9d; letter-spacing: 3px; margin-bottom: 2rem;">
-  <span style="color:#7fff00;">$</span> ls ./projects --pinned
-</h2>
-</div>
-
-<!-- PROJECT 1: DISCORD QUEST AUTO COMPLETER -->
+| Paquete | Qué hace | Instalar |
+|---|---|---|
+| 📖 **[book-cipher-kit](https://github.com/AnonymoDGH/book-cipher-kit)** | Cifrado de libro con Shamir secret sharing, audit trail, word map de voz y TUI | `pip install book-cipher-kit` |
+| 📡 **[dns-tunnel-messenger](https://github.com/AnonymoDGH/dns-tunnel-messenger)** | Mensajería encubierta sobre DNS: traffic shaping, fragmentación, anti-replay, fuzz suite | `pip install dns-tunnel-messenger` |
+| 🖼️ **[metadata-stripper](https://github.com/AnonymoDGH/metadata-stripper)** | Limpia metadatos (EXIF/HEIF/PDF/Office/audio/vídeo), motor de riesgo, forense GPS, servicio HTTP | `pip install metadata-stripper` |
+| 🍯 **[honeypot-server](https://github.com/AnonymoDGH/honeypot-server)** | Plataforma de decepción: 8 protocolos falsos, tar pit, canary tokens, clasificador TTP (MITRE), deception score | `pip install honeypot-server` |
+| 🔓 **[hash-auditor](https://github.com/AnonymoDGH/hash-auditor)** | Laboratorio de auditoría de contraseñas: rainbow tables, PCFG, máscaras hashcat, zxcvbn-lite, políticas | `pip install hash-auditor` |
+| 🎭 **[cover-identity](https://github.com/AnonymoDGH/cover-identity)** | Generador de identidades encubiertas consistentes: dossier completo, bóveda cifrada, simulacros de interrogatorio | `pip install cover-identity` |
+| 🪤 **[deadman-switch](https://github.com/AnonymoDGH/deadman-switch)** | Interruptor del hombre muerto: heartbeats firmados, proof-of-life con duress, quórum de cancelación, legado digital | `pip install deadman-switch` |
 
 <div align="center">
 
-<div style="max-width: 1050px; padding: 2.2rem; margin: 1.5rem auto; background: rgba(5, 5, 16, 0.28); backdrop-filter: blur(24px); -webkit-backdrop-filter: blur(24px); border-radius: 26px; border: 1.5px solid rgba(0, 255, 157, 0.22); box-shadow: 0 25px 60px rgba(0, 255, 157, 0.08), 0 0 40px rgba(0, 20, 60, 0.25) inset;">
-
-<div align="left">
-  <h3 style="font-family: 'JetBrains Mono', monospace; color: #ffffff; font-size: 26px; margin-bottom: 0.3rem;">
-    <span style="color:#00ff9d;">[</span> Discord-Quest-Auto-Completer <span style="color:#00ff9d;">]</span>
-  </h3>
-  
-  <a href="https://github.com/AnonymoDGH/Discord-Quest-Auto-Completer" target="_blank">
-    <img src="https://img.shields.io/github/stars/AnonymoDGH/Discord-Quest-Auto-Completer?style=for-the-badge&color=00ff9d&labelColor=050510" />
-  </a>
-  <img src="https://img.shields.io/github/last-commit/AnonymoDGH/Discord-Quest-Auto-Completer?style=for-the-badge&color=00ff9d&labelColor=050510" />
-  <img src="https://img.shields.io/github/languages/top/AnonymoDGH/Discord-Quest-Auto-Completer?style=for-the-badge&color=00ff9d&labelColor=050510" />
-  
-  <p style="font-family: 'Inter', sans-serif; color: #c9c9dd; font-size: 16px; line-height: 1.8; margin-top: 1rem;">
-    Completa misiones de Discord al instante inyectando un script en la consola del navegador. Se cuela directamente en el <span style="color:#00ff9d;">webpack interno de Discord</span> en tiempo de ejecución, intercepta los stores internos, y lanza las peticiones a <code style="background: rgba(0,255,157,0.08); color:#00ff9d; padding: 2px 6px; border-radius: 6px;">/quests/:id/video-progress</code> y <code style="background: rgba(0,255,157,0.08); color:#00ff9d; padding: 2px 6px; border-radius: 6px;">/heartbeat</code> como si fuera la app oficial. <b>Cero dependencias. Sin instalar nada.</b>
-  </p>
-</div>
-
-<br/>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 1.2rem; margin-top: 0.8rem;">
-
-<!-- Internals Card -->
-<div style="padding: 1.6rem; background: rgba(0, 15, 35, 0.25); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px); border-radius: 18px; border: 1px solid rgba(0, 255, 157, 0.15);">
-  <h4 style="font-family: 'JetBrains Mono', monospace; color: #00ff9d; margin: 0 0 1rem 0; letter-spacing: 1px;">INTERNALS</h4>
-  <ul style="font-family: 'JetBrains Mono', monospace; color: #d5d5e6; line-height: 1.9; font-size: 14px; margin: 0; padding-left: 1.2rem;">
-    <li>Inyecta y analiza <code>webpackChunkdiscord_app</code> en runtime.</li>
-    <li>Extrae dinámicamente el mapa de módulos internos.</li>
-    <li>Localiza stores de quests, games, streaming, dispatcher, API.</li>
-    <li>Parchea <code>getRunningGames()</code> y <code>getGameForPID()</code> para spoof de <b>PLAY_ON_DESKTOP</b>.</li>
-    <li>Parchea <code>getStreamerActiveStreamMetadata()</code> para <b>STREAM_ON_DESKTOP</b>.</li>
-    <li>Encuentra canales de voz vía <code>getSortedPrivateChannels()</code> & guilds.</li>
-    <li>Se suscribe a <code>QUESTS_SEND_HEARTBEAT_SUCCESS</code> para detectar completado.</li>
-  </ul>
-</div>
-
-<!-- Supported Quests Card -->
-<div style="padding: 1.6rem; background: rgba(0, 15, 35, 0.25); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px); border-radius: 18px; border: 1px solid rgba(0, 255, 157, 0.15);">
-  <h4 style="font-family: 'JetBrains Mono', monospace; color: #00ff9d; margin: 0 0 1rem 0; letter-spacing: 1px;">SUPPORTED QUEST TYPES</h4>
-  <ul style="font-family: 'JetBrains Mono', monospace; color: #d5d5e6; line-height: 1.9; font-size: 14px; margin: 0; padding-left: 1.2rem;">
-    <li><b>WATCH_VIDEO / WATCH_VIDEO_ON_MOBILE</b> — POST directo a la API.</li>
-    <li><b>PLAY_ON_DESKTOP</b> — Spoof de procesos de juego + heartbeat.</li>
-    <li><b>STREAM_ON_DESKTOP</b> — Spoof de metadatos de stream activo.</li>
-    <li><b>PLAY_ACTIVITY</b> — Simulación de estar en un canal de voz.</li>
-  </ul>
-</div>
+![toolkit](https://img.shields.io/badge/74k-líneas_de_código-00ff9d?style=for-the-badge&labelColor=050510)
+![tests](https://img.shields.io/badge/3.4k_tests-pasando-00ff9d?style=for-the-badge&labelColor=050510)
+![stdlib](https://img.shields.io/badge/100%25-stdlib-00ff9d?style=for-the-badge&labelColor=050510)
+![pypi](https://img.shields.io/badge/PyPI-v0.2.0-00ff9d?style=for-the-badge&logo=pypi&labelColor=050510)
 
 </div>
 
-<br/>
+---
 
-<div align="left" style="margin-top: 0.5rem;">
-  <span style="font-family: 'JetBrains Mono', monospace; color: #7a7a9a; font-size: 14px;">Tech:</span>
-  <span style="background: rgba(0,255,157,0.08); color:#00ff9d; padding: 6px 12px; border-radius: 10px; font-family: 'JetBrains Mono', monospace; font-size: 13px; margin-left: 6px; border: 1px solid rgba(0,255,157,0.12);">Vanilla JS</span>
-  <span style="background: rgba(0,255,157,0.08); color:#00ff9d; padding: 6px 12px; border-radius: 10px; font-family: 'JetBrains Mono', monospace; font-size: 13px; margin-left: 6px; border: 1px solid rgba(0,255,157,0.12);">Discord Webpack Internals</span>
-  <span style="background: rgba(0,255,157,0.08); color:#00ff9d; padding: 6px 12px; border-radius: 10px; font-family: 'JetBrains Mono', monospace; font-size: 13px; margin-left: 6px; border: 1px solid rgba(0,255,157,0.12);">DOM Injection</span>
-  <span style="background: rgba(0,255,157,0.08); color:#00ff9d; padding: 6px 12px; border-radius: 10px; font-family: 'JetBrains Mono', monospace; font-size: 13px; margin-left: 6px; border: 1px solid rgba(0,255,157,0.12);">Discord REST API</span>
+## 🔧 `$ reverse-engineering`
+
+Clientes async construidos desde cero a partir de las APIs internas, sin SDK oficial:
+
+- **[Qwen-Reverse](https://github.com/AnonymoDGH/Qwen-Reverse)** — cliente async de chat.qwen.ai: streaming con razonamiento en tiempo real, tool calling, imagen y vídeo
+- **[baidu-reverse](https://github.com/AnonymoDGH/baidu-reverse)** — cliente async de Baidu Wenxin (chat.baidu.com): streaming, razonamiento, pool de proxies
+- **[reverse-agent](https://github.com/AnonymoDGH/reverse-agent)** — agente de coding multi-proveedor para terminal (Qwen-reverse + OpenRouter, Groq, DeepSeek...)
+- **[gguf2bin](https://github.com/AnonymoDGH/gguf2bin)** — runtime C99 propio: GGUF → G2BX → inferencia (Qwen3 / Qwen2 / Llama)
+
+---
+
+## 📌 `$ ls ./projects --destacados`
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+[![mineflayer-schem](https://github-readme-stats.vercel.app/api/pin/?username=AnonymoDGH&repo=mineflayer-schem&bg_color=05051000&border_color=00ff9d80&title_color=00ff9d&text_color=c9c9dd&icon_color=00ff9d)](https://github.com/AnonymoDGH/mineflayer-schem)
+
+</td>
+<td width="50%">
+
+[![Discord-Quest-Auto-Completer](https://github-readme-stats.vercel.app/api/pin/?username=AnonymoDGH&repo=Discord-Quest-Auto-Completer&bg_color=05051000&border_color=00ff9d80&title_color=00ff9d&text_color=c9c9dd&icon_color=00ff9d)](https://github.com/AnonymoDGH/Discord-Quest-Auto-Completer)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![Armonia](https://github-readme-stats.vercel.app/api/pin/?username=AnonymoDGH&repo=Armonia&bg_color=05051000&border_color=00ff9d80&title_color=00ff9d&text_color=c9c9dd&icon_color=00ff9d)](https://github.com/AnonymoDGH/Armonia)
+
+</td>
+<td width="50%">
+
+[![Qwen-Reverse](https://github-readme-stats.vercel.app/api/pin/?username=AnonymoDGH&repo=Qwen-Reverse&bg_color=05051000&border_color=00ff9d80&title_color=00ff9d&text_color=c9c9dd&icon_color=00ff9d)](https://github.com/AnonymoDGH/Qwen-Reverse)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![vital-agent](https://github-readme-stats.vercel.app/api/pin/?username=AnonymoDGH&repo=vital-agent&bg_color=05051000&border_color=00ff9d80&title_color=00ff9d&text_color=c9c9dd&icon_color=00ff9d)](https://github.com/AnonymoDGH/vital-agent)
+
+</td>
+<td width="50%">
+
+[![OurBook](https://github-readme-stats.vercel.app/api/pin/?username=AnonymoDGH&repo=OurBook&bg_color=05051000&border_color=00ff9d80&title_color=00ff9d&text_color=c9c9dd&icon_color=00ff9d)](https://github.com/AnonymoDGH/OurBook)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![ultimate-free-llm-resources](https://github-readme-stats.vercel.app/api/pin/?username=AnonymoDGH&repo=ultimate-free-llm-resources&bg_color=05051000&border_color=00ff9d80&title_color=00ff9d&text_color=c9c9dd&icon_color=00ff9d)](https://github.com/AnonymoDGH/ultimate-free-llm-resources)
+
+</td>
+<td width="50%">
+
+[![gguf2bin](https://github-readme-stats.vercel.app/api/pin/?username=AnonymoDGH&repo=gguf2bin&bg_color=05051000&border_color=00ff9d80&title_color=00ff9d&text_color=c9c9dd&icon_color=00ff9d)](https://github.com/AnonymoDGH/gguf2bin)
+
+</td>
+</tr>
+</table>
 </div>
 
-</div>
+**Menciones rápidas:**
 
-</div>
+- 🎵 **[Armonia](https://github.com/AnonymoDGH/Armonia)** — genera música desde lenguaje natural, entrenado en 214K partituras reales → WAV, MIDI y ABC
+- 💗 **[vital-agent](https://github.com/AnonymoDGH/vital-agent)** — agente autónomo de "life-credit" que debe ganar su propio dinero... o muere (TUI estilo Cursor con Textual)
+- 📖 **[OurBook](https://github.com/AnonymoDGH/OurBook)** — el primer MCP donde el agente no recuerda tus datos, recuerda tu *historia*
+- 🤖 **[mineflayer-schem](https://github.com/AnonymoDGH/mineflayer-schem)** — plugin de mineflayer para construir estructuras desde schematics (`npm i mineflayer-schem`, v1.5.2, +50 commits de fixes sobre el original)
+- 🎮 **[Discord-Quest-Auto-Completer](https://github.com/AnonymoDGH/Discord-Quest-Auto-Completer)** — completa quests de Discord inyectándose en el webpack interno, cero dependencias
+- 🧠 **[rdru-lm](https://github.com/AnonymoDGH/rdru-lm)** — language model character-level que aplica el mismo bloque transformer iterativamente + objetivo de denoising
+- 📚 **[ultimate-free-llm-resources](https://github.com/AnonymoDGH/ultimate-free-llm-resources)** — la colección más completa de recursos LLM gratuitos: APIs, modelos, herramientas
 
-<br/>
+---
 
-<!-- PROJECT 2: MINEFLAYER-SCHEM -->
+## 🛠️ `$ cat ./stack.json`
+
+**Lenguajes**
+
+![Python](https://img.shields.io/badge/Python-050510?style=for-the-badge&logo=python&logoColor=00ff9d)
+![JavaScript](https://img.shields.io/badge/JavaScript-050510?style=for-the-badge&logo=javascript&logoColor=00ff9d)
+![TypeScript](https://img.shields.io/badge/TypeScript-050510?style=for-the-badge&logo=typescript&logoColor=00ff9d)
+![Node.js](https://img.shields.io/badge/Node.js-050510?style=for-the-badge&logo=node.js&logoColor=00ff9d)
+![C](https://img.shields.io/badge/C-050510?style=for-the-badge&logo=c&logoColor=00ff9d)
+![C++](https://img.shields.io/badge/C++-050510?style=for-the-badge&logo=cplusplus&logoColor=00ff9d)
+
+**Seguridad & Testing**
+
+![pytest](https://img.shields.io/badge/pytest-050510?style=for-the-badge&logo=pytest&logoColor=00ff9d)
+![PyPI](https://img.shields.io/badge/PyPI-publishing-050510?style=for-the-badge&logo=pypi&logoColor=00ff9d)
+![Wireshark](https://img.shields.io/badge/Wireshark-050510?style=for-the-badge&logo=wireshark&logoColor=00ff9d)
+![Linux](https://img.shields.io/badge/Linux-050510?style=for-the-badge&logo=linux&logoColor=00ff9d)
+
+**Web & Tooling**
+
+![React](https://img.shields.io/badge/React-050510?style=for-the-badge&logo=react&logoColor=00ff9d)
+![Next.js](https://img.shields.io/badge/Next.js-050510?style=for-the-badge&logo=next.js&logoColor=00ff9d)
+![Docker](https://img.shields.io/badge/Docker-050510?style=for-the-badge&logo=docker&logoColor=00ff9d)
+![Git](https://img.shields.io/badge/Git-050510?style=for-the-badge&logo=git&logoColor=00ff9d)
+![Webpack](https://img.shields.io/badge/Webpack-internals-050510?style=for-the-badge&logo=webpack&logoColor=00ff9d)
+
+**Ecosistema Minecraft**
+
+![Prismarine](https://img.shields.io/badge/Prismarine-mineflayer-050510?style=for-the-badge&logo=minecraft&logoColor=00ff9d)
+![npm](https://img.shields.io/badge/npm-mineflayer--schem-050510?style=for-the-badge&logo=npm&logoColor=00ff9d)
+
+---
+
+## 📊 `$ cat ./stats.log`
 
 <div align="center">
 
-<div style="max-width: 1050px; padding: 2.2rem; margin: 1.5rem auto; background: rgba(5, 5, 16, 0.28); backdrop-filter: blur(24px); -webkit-backdrop-filter: blur(24px); border-radius: 26px; border: 1.5px solid rgba(0, 255, 157, 0.22); box-shadow: 0 25px 60px rgba(0, 255, 157, 0.08), 0 0 40px rgba(0, 20, 60, 0.25) inset;">
-
-<div align="left">
-  <h3 style="font-family: 'JetBrains Mono', monospace; color: #ffffff; font-size: 26px; margin-bottom: 0.3rem;">
-    <span style="color:#00ff9d;">[</span> mineflayer-schem <span style="color:#00ff9d;">]</span>
-  </h3>
-  
-  <a href="https://github.com/AnonymoDGH/mineflayer-schem" target="_blank">
-    <img src="https://img.shields.io/github/stars/AnonymoDGH/mineflayer-schem?style=for-the-badge&color=00ff9d&labelColor=050510" />
-  </a>
-  <a href="https://github.com/AnonymoDGH/mineflayer-schem/network/members" target="_blank">
-    <img src="https://img.shields.io/github/forks/AnonymoDGH/mineflayer-schem?style=for-the-badge&color=00ff9d&labelColor=050510" />
-  </a>
-  <a href="https://www.npmjs.com/package/mineflayer-schem" target="_blank">
-    <img src="https://img.shields.io/npm/v/mineflayer-schem?style=for-the-badge&color=00ff9d&labelColor=050510" />
-  </a>
-  <img src="https://img.shields.io/github/last-commit/AnonymoDGH/mineflayer-schem?style=for-the-badge&color=00ff9d&labelColor=050510" />
-  
-  <p style="font-family: 'Inter', sans-serif; color: #c9c9dd; font-size: 16px; line-height: 1.8; margin-top: 1rem;">
-    Plugin para <span style="color:#00ff9d;">mineflayer</span> que construye estructuras automáticamente a partir de archivos schematic. Un fork mejorado de <code style="background: rgba(0,255,157,0.08); color:#00ff9d; padding: 2px 6px; border-radius: 6px;">mineflayer-builder</code> con muchísimos bugs arreglados, compatibilidad ampliada y soporte para múltiples bots trabajando en equipo. Si quieres construir un castillo con un ejército de bots, esto es para ti.
-  </p>
-</div>
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=AnonymoDGH&show_icons=true&bg_color=05051000&border_color=00ff9d80&title_color=00ff9d&icon_color=00ff9d&text_color=c9c9dd&count_private=true&include_all_commits=true&ring_color=00ff9d" />
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymoDGH&layout=compact&bg_color=05051000&border_color=00ff9d80&title_color=00ff9d&text_color=c9c9dd&langs_count=8" />
 
 <br/>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 1.2rem; margin-top: 0.8rem;">
-
-<!-- Supported Formats -->
-<div style="padding: 1.6rem; background: rgba(0, 15, 35, 0.25); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px); border-radius: 18px; border: 1px solid rgba(0, 255, 157, 0.15);">
-  <h4 style="font-family: 'JetBrains Mono', monospace; color: #00ff9d; margin: 0 0 1rem 0; letter-spacing: 1px;">SUPPORTED FORMATS</h4>
-  <ul style="font-family: 'JetBrains Mono', monospace; color: #d5d5e6; line-height: 1.9; font-size: 14px; margin: 0; padding-left: 1.2rem;">
-    <li><code>.schematic</code> — MCEdit / Classic</li>
-    <li><code>.schem</code> — WorldEdit (1.13+)</li>
-    <li><code>.litematic</code> — Litematica</li>
-    <li>Raw NBT</li>
-  </ul>
-</div>
-
-<!-- Build Features -->
-<div style="padding: 1.6rem; background: rgba(0, 15, 35, 0.25); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px); border-radius: 18px; border: 1px solid rgba(0, 255, 157, 0.15);">
-  <h4 style="font-family: 'JetBrains Mono', monospace; color: #00ff9d; margin: 0 0 1rem 0; letter-spacing: 1px;">BUILD FEATURES</h4>
-  <ul style="font-family: 'JetBrains Mono', monospace; color: #d5d5e6; line-height: 1.9; font-size: 14px; margin: 0; padding-left: 1.2rem;">
-    <li>Compatibilidad con Minecraft <b>1.8 → 1.20+</b>.</li>
-    <li>Construcción colaborativa con múltiples bots (<code>bots[]</code>).</li>
-    <li>Detección automática de cofres y recolección de ítems.</li>
-    <li>Orientación correcta para bloques direccionales (escaleras, slabs, puertas...).</li>
-    <li>Estrategias de error: pausar, cancelar, reintentar o saltar.</li>
-    <li>Eventos de progreso y estadísticas detalladas del build.</li>
-    <li><b>+50 commits</b> de mejoras y parches respecto al original.</li>
-  </ul>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AnonymoDGH&theme=dark&background=05051000&border=00ff9d80&stroke=00ff9d&ring=00ff9d&fire=7fff00&currStreakNum=ffffff&sideNums=c9c9dd&currStreakLabel=00ff9d&sideLabels=7a7a9a&dates=5a5a75" width="90%"/>
 
 </div>
 
-<br/>
+---
 
-<div align="left" style="margin-top: 0.5rem;">
-  <span style="font-family: 'JetBrains Mono', monospace; color: #7a7a9a; font-size: 14px;">Tech:</span>
-  <span style="background: rgba(0,255,157,0.08); color:#00ff9d; padding: 6px 12px; border-radius: 10px; font-family: 'JetBrains Mono', monospace; font-size: 13px; margin-left: 6px; border: 1px solid rgba(0,255,157,0.12);">Node.js</span>
-  <span style="background: rgba(0,255,157,0.08); color:#00ff9d; padding: 6px 12px; border-radius: 10px; font-family: 'JetBrains Mono', monospace; font-size: 13px; margin-left: 6px; border: 1px solid rgba(0,255,157,0.12);">JavaScript</span>
-  <span style="background: rgba(0,255,157,0.08); color:#00ff9d; padding: 6px 12px; border-radius: 10px; font-family: 'JetBrains Mono', monospace; font-size: 13px; margin-left: 6px; border: 1px solid rgba(0,255,157,0.12);">Mineflayer</span>
-  <span style="background: rgba(0,255,157,0.08); color:#00ff9d; padding: 6px 12px; border-radius: 10px; font-family: 'JetBrains Mono', monospace; font-size: 13px; margin-left: 6px; border: 1px solid rgba(0,255,157,0.12);">Prismarine-Schematic</span>
-  <span style="background: rgba(0,255,157,0.08); color:#00ff9d; padding: 6px 12px; border-radius: 10px; font-family: 'JetBrains Mono', monospace; font-size: 13px; margin-left: 6px; border: 1px solid rgba(0,255,157,0.12);">Minecraft Protocol</span>
-</div>
-
-<br/>
-
-<div align="left">
-  <h4 style="font-family: 'JetBrains Mono', monospace; color: #00ff9d; margin-bottom: 0.8rem;">Instalación rápida</h4>
-  
-```bash
-npm install mineflayer-schem
-```
-</div>
-
-</div>
-
-</div>
-
-<br/>
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                        TECH STACK                            -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <h2 style="font-family: 'JetBrains Mono', monospace; color: #00ff9d; letter-spacing: 3px; margin-bottom: 2rem;">
-    <span style="color:#7fff00;">$</span> cat ./stack.json
-  </h2>
-</div>
+## 📈 `$ tail -f ./activity.log`
 
 <div align="center">
 
-<div style="max-width: 1050px; padding: 2.2rem; margin: 1rem auto; background: rgba(5, 5, 16, 0.25); backdrop-filter: blur(22px); -webkit-backdrop-filter: blur(22px); border-radius: 24px; border: 1.5px solid rgba(0, 255, 157, 0.18); box-shadow: 0 20px 50px rgba(0, 255, 157, 0.08), 0 0 35px rgba(0, 20, 50, 0.25) inset;">
-
-<br/>
-
-### — Languages —
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-bottom: 1.5rem;">
-  <img src="https://img.shields.io/badge/JavaScript-050510?style=for-the-badge&logo=javascript&logoColor=00ff9d" style="border-radius: 12px; border: 1px solid rgba(0,255,157,0.12);"/>
-  <img src="https://img.shields.io/badge/Node.js-050510?style=for-the-badge&logo=node.js&logoColor=00ff9d" style="border-radius: 12px; border: 1px solid rgba(0,255,157,0.12);"/>
-  <img src="https://img.shields.io/badge/TypeScript-050510?style=for-the-badge&logo=typescript&logoColor=00ff9d" style="border-radius: 12px; border: 1px solid rgba(0,255,157,0.12);"/>
-  <img src="https://img.shields.io/badge/Python-050510?style=for-the-badge&logo=python&logoColor=00ff9d" style="border-radius: 12px; border: 1px solid rgba(0,255,157,0.12);"/>
-  <img src="https://img.shields.io/badge/Bash-050510?style=for-the-badge&logo=gnubash&logoColor=00ff9d" style="border-radius: 12px; border: 1px solid rgba(0,255,157,0.12);"/>
-</div>
-
-### — Frontend —
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-bottom: 1.5rem;">
-  <img src="https://img.shields.io/badge/React-050510?style=for-the-badge&logo=react&logoColor=00ff9d" style="border-radius: 12px; border: 1px solid rgba(0,255,157,0.12);"/>
-  <img src="https://img.shields.io/badge/Next.js-050510?style=for-the-badge&logo=next.js&logoColor=00ff9d" style="border-radius: 12px; border: 1px solid rgba(0,255,157,0.12);"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-050510?style=for-the-badge&logo=tailwindcss&logoColor=00ff9d" style="border-radius: 12px; border: 1px solid rgba(0,255,157,0.12);"/>
-  <img src="https://img.shields.io/badge/HTML5-050510?style=for-the-badge&logo=html5&logoColor=00ff9d" style="border-radius: 12px; border: 1px solid rgba(0,255,157,0.12);"/>
-  <img src="https://img.shields.io/badge/CSS3-050510?style=for-the-badge&logo=css3&logoColor=00ff9d" style="border-radius: 12px; border: 1px solid rgba(0,255,157,0.12);"/>
-</div>
-
-### — Backend & Infra —
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-bottom: 1.5rem;">
-  <img src="https://img.shields.io/badge/Express-050510?style=for-the-badge&logo=express&logoColor=00ff9d" style="border-radius: 12px; border: 1px solid rgba(0,255,157,0.12);"/>
-  <img src="https://img.shields.io/badge/Docker-050510?style=for-the-badge&logo=docker&logoColor=00ff9d" style="border-radius: 12px; border: 1px solid rgba(0,255,157,0.12);"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-050510?style=for-the-badge&logo=postgresql&logoColor=00ff9d" style="border-radius: 12px; border: 1px solid rgba(0,255,157,0.12);"/>
-  <img src="https://img.shields.io/badge/Redis-050510?style=for-the-badge&logo=redis&logoColor=00ff9d" style="border-radius: 12px; border: 1px solid rgba(0,255,157,0.12);"/>
-  <img src="https://img.shields.io/badge/Nginx-050510?style=for-the-badge&logo=nginx&logoColor=00ff9d" style="border-radius: 12px; border: 1px solid rgba(0,255,157,0.12);"/>
-  <img src="https://img.shields.io/badge/Linux-050510?style=for-the-badge&logo=linux&logoColor=00ff9d" style="border-radius: 12px; border: 1px solid rgba(0,255,157,0.12);"/>
-</div>
-
-### — Tooling & Reverse Engineering —
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-  <img src="https://img.shields.io/badge/npm-050510?style=for-the-badge&logo=npm&logoColor=00ff9d" style="border-radius: 12px; border: 1px solid rgba(0,255,157,0.12);"/>
-  <img src="https://img.shields.io/badge/Git-050510?style=for-the-badge&logo=git&logoColor=00ff9d" style="border-radius: 12px; border: 1px solid rgba(0,255,157,0.12);"/>
-  <img src="https://img.shields.io/badge/Webpack-050510?style=for-the-badge&logo=webpack&logoColor=00ff9d" style="border-radius: 12px; border: 1px solid rgba(0,255,157,0.12);"/>
-  <img src="https://img.shields.io/badge/VSCode-050510?style=for-the-badge&logo=visualstudiocode&logoColor=00ff9d" style="border-radius: 12px; border: 1px solid rgba(0,255,157,0.12);"/>
-  <img src="https://img.shields.io/badge/Chrome_DevTools-050510?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" style="border-radius: 12px; border: 1px solid rgba(0,255,157,0.12);"/>
-  <img src="https://img.shields.io/badge/Prismarine-050510?style=for-the-badge&logo=minecraft&logoColor=00ff9d" style="border-radius: 12px; border: 1px solid rgba(0,255,157,0.12);"/>
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnonymoDGH&bg_color=05051000&color=00ff9d&line=00ff9d&point=7fff00&area=true&border_color=00ff9d80&title_color=00ff9d)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-</div>
+---
 
-<br/>
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                        GITHUB STATS                           -->
-<!-- ══════════════════════════════════════════════════════════ -->
+## 🐍 `$ ./contrib-snake --run`
 
 <div align="center">
-  <h2 style="font-family: 'JetBrains Mono', monospace; color: #00ff9d; letter-spacing: 3px; margin-bottom: 2rem;">
-    <span style="color:#7fff00;">$</span> cat ./stats.log
-  </h2>
-</div>
-
-<div align="center">
-
-<div style="max-width: 1050px; padding: 2rem; margin: 1rem auto; background: rgba(5, 5, 16, 0.25); backdrop-filter: blur(22px); -webkit-backdrop-filter: blur(22px); border-radius: 24px; border: 1.5px solid rgba(0, 255, 157, 0.18); box-shadow: 0 20px 50px rgba(0, 255, 157, 0.08), 0 0 35px rgba(0, 20, 50, 0.25) inset;">
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1.2rem;">
-
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=AnonymoDGH&show_icons=true&bg_color=05051000&border_color=00ff9d80&title_color=00ff9d&icon_color=00ff9d&text_color=c9c9dd&hide_border=false&count_private=true&include_all_commits=true&ring_color=00ff9d" />
-
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymoDGH&layout=compact&bg_color=05051000&border_color=00ff9d80&title_color=00ff9d&text_color=c9c9dd&hide_border=false&langs_count=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnonymoDGH&theme=dark&background=05051000&border=00ff9d80&stroke=00ff9d&ring=00ff9d&fire=7fff00&currStreakNum=ffffff&sideNums=c9c9dd&currStreakLabel=00ff9d&sideLabels=7a7a9a&dates=5a5a75" width="90%"/>
-</div>
-
-</div>
-
-</div>
-
-<br/>
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                      ACTIVITY GRAPH                          -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <h2 style="font-family: 'JetBrains Mono', monospace; color: #00ff9d; letter-spacing: 3px; margin-bottom: 2rem;">
-    <span style="color:#7fff00;">$</span> tail -f ./activity.log
-  </h2>
-</div>
-
-<div align="center">
-
-<div style="max-width: 1050px; padding: 1.2rem; margin: 1rem auto; background: rgba(5, 5, 16, 0.25); backdrop-filter: blur(22px); -webkit-backdrop-filter: blur(22px); border-radius: 24px; border: 1.5px solid rgba(0, 255, 157, 0.18); box-shadow: 0 20px 50px rgba(0, 255, 157, 0.08), 0 0 35px rgba(0, 20, 50, 0.25) inset;">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnonymoDGH&bg_color=05051000&color=00ff9d&line=00ff9d&point=7fff00&area=true&hide_border=false&border_color=00ff9d80&title_color=00ff9d)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-</div>
-
-<br/>
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                     CONTRIBUTION SNAKE                       -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <h2 style="font-family: 'JetBrains Mono', monospace; color: #00ff9d; letter-spacing: 3px; margin-bottom: 2rem;">
-    <span style="color:#7fff00;">$</span> ./contrib-snake --run
-  </h2>
-</div>
-
-<div align="center">
-
-<div style="max-width: 1050px; padding: 1.5rem; margin: 1rem auto; background: rgba(5, 5, 16, 0.25); backdrop-filter: blur(22px); -webkit-backdrop-filter: blur(22px); border-radius: 24px; border: 1.5px solid rgba(0, 255, 157, 0.18); box-shadow: 0 20px 50px rgba(0, 255, 157, 0.08), 0 0 35px rgba(0, 20, 50, 0.25) inset;">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnonymoDGH/AnonymoDGH/output/github-contribution-grid-snake-dark.svg">
@@ -389,111 +206,22 @@ npm install mineflayer-schem
 
 </div>
 
-</div>
-
-<br/>
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                        CONTACT                                -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <h2 style="font-family: 'JetBrains Mono', monospace; color: #00ff9d; letter-spacing: 3px; margin-bottom: 2rem;">
-    <span style="color:#7fff00;">$</span> ping ./contact
-  </h2>
-</div>
-
-<div align="center">
-
-<div style="max-width: 950px; padding: 2rem; margin: 1rem auto; background: rgba(5, 5, 16, 0.25); backdrop-filter: blur(22px); -webkit-backdrop-filter: blur(22px); border-radius: 24px; border: 1.5px solid rgba(0, 255, 157, 0.18); box-shadow: 0 20px 50px rgba(0, 255, 157, 0.08), 0 0 35px rgba(0, 20, 50, 0.25) inset;">
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 14px;">
-
-[![GitHub](https://img.shields.io/badge/GitHub-AnonymoDGH-050510?style=for-the-badge&logo=github&logoColor=00ff9d)](https://github.com/AnonymoDGH)
-[![npm](https://img.shields.io/badge/npm-anonymodgh-050510?style=for-the-badge&logo=npm&logoColor=00ff9d)](https://www.npmjs.com/~anonymodgh)
-[![Discord](https://img.shields.io/badge/Discord-AnonymoDGH-050510?style=for-the-badge&logo=discord&logoColor=00ff9d)](https://discord.com/users/)
-[![X](https://img.shields.io/badge/X-@AnonymoDGH-050510?style=for-the-badge&logo=x&logoColor=00ff9d)](https://twitter.com/)
-
-</div>
-
-<p style="font-family: 'JetBrains Mono', monospace; color: #7a7a9a; font-size: 14px; margin-top: 1.2rem; letter-spacing: 0.5px;">
-  Si tienes una idea rara, un bug interesante o quieres colaborar... dime. 
-</p>
-
-</div>
-
-</div>
-
-<br/>
-<br/>
-
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                      EXTRA SETUP SECTION                     -->
-<!-- ══════════════════════════════════════════════════════════ -->
+## 📬 `$ ping ./contact`
 
-<details>
-<summary style="font-family: 'JetBrains Mono', monospace; color: #00ff9d; cursor: pointer; font-size: 15px; letter-spacing: 1px;">
-  <b>⚙️ Configurar la serpiente de contribuciones (GitHub Action)</b>
-</summary>
+<div align="center">
 
-<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-AnonymoDGH-050510?style=for-the-badge&logo=github&logoColor=00ff9d)](https://github.com/AnonymoDGH)
+[![PyPI](https://img.shields.io/badge/PyPI-AnonymoDGH-050510?style=for-the-badge&logo=pypi&logoColor=00ff9d)](https://pypi.org/user/AnonymoDGH/)
+[![npm](https://img.shields.io/badge/npm-anonymodgh-050510?style=for-the-badge&logo=npm&logoColor=00ff9d)](https://www.npmjs.com/~anonymodgh)
 
-Para que la serpiente de contribuciones se genere automáticamente cada día, crea el archivo:
+Si tienes una idea rara, un bug interesante o quieres colaborar — dime.
 
-` .github/workflows/snake.yml `
-
-Con este contenido:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # Se ejecuta todos los días a medianoche (UTC)
-  workflow_dispatch: # Permite ejecutarlo manualmente
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    
-    steps:
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: AnonymoDGH
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Una vez hecho el commit, la acción generará la serpiente en la rama `output` y se mostrará automáticamente aquí.
-
-</details>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                         FOOTER                               -->
-<!-- ══════════════════════════════════════════════════════════ -->
+</div>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f2e,100:050510&height=120&section=footer&text=EOF%20%E2%80%A2%20AnonymoDGH%20%E2%80%A2%20Colombia&fontSize=16&fontColor=00ff9d&fontAlignY=70&animation=fadeIn" />
 
 </div>
-Ahí lo tienes. Todo con glassmorphism, mucho más limpio, con tarjetas, mejor espaciado y ese rollito cyberpunk que buscabas. 
-
-Si quieres ajustar algún color, el blur o añadir algo más, dime y lo cambio enseguida.
