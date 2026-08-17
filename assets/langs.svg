@@ -5,20 +5,20 @@
 <text x="26" y="62" font-size="11" fill="#565f89">weighted by repository size · own repos only</text>
 <text x="26" y="93" font-size="11" fill="#a9b1d6">Python</text>
 <rect x="130" y="84" width="300" height="11" rx="5.5" fill="#ffffff" fill-opacity="0.05"/>
-<rect x="130" y="84" width="112" height="11" rx="5.5" fill="#3572A5"/>
-<text x="494" y="93" font-size="10" fill="#565f89" text-anchor="end">37.4%</text>
+<rect x="130" y="84" width="113" height="11" rx="5.5" fill="#3572A5"/>
+<text x="494" y="93" font-size="10" fill="#565f89" text-anchor="end">37.6%</text>
 <text x="26" y="118" font-size="11" fill="#a9b1d6">JavaScript</text>
 <rect x="130" y="109" width="300" height="11" rx="5.5" fill="#ffffff" fill-opacity="0.05"/>
-<rect x="130" y="109" width="112" height="11" rx="5.5" fill="#f1e05a"/>
-<text x="494" y="118" font-size="10" fill="#565f89" text-anchor="end">37.3%</text>
+<rect x="130" y="109" width="111" height="11" rx="5.5" fill="#f1e05a"/>
+<text x="494" y="118" font-size="10" fill="#565f89" text-anchor="end">37.1%</text>
 <text x="26" y="143" font-size="11" fill="#a9b1d6">TypeScript</text>
 <rect x="130" y="134" width="300" height="11" rx="5.5" fill="#ffffff" fill-opacity="0.05"/>
 <rect x="130" y="134" width="32" height="11" rx="5.5" fill="#3178c6"/>
-<text x="494" y="143" font-size="10" fill="#565f89" text-anchor="end">10.6%</text>
+<text x="494" y="143" font-size="10" fill="#565f89" text-anchor="end">10.5%</text>
 <text x="26" y="168" font-size="11" fill="#a9b1d6">HTML</text>
 <rect x="130" y="159" width="300" height="11" rx="5.5" fill="#ffffff" fill-opacity="0.05"/>
 <rect x="130" y="159" width="25" height="11" rx="5.5" fill="#e34c26"/>
-<text x="494" y="168" font-size="10" fill="#565f89" text-anchor="end">8.4%</text>
+<text x="494" y="168" font-size="10" fill="#565f89" text-anchor="end">8.3%</text>
 <text x="26" y="193" font-size="11" fill="#a9b1d6">Lua</text>
 <rect x="130" y="184" width="300" height="11" rx="5.5" fill="#ffffff" fill-opacity="0.05"/>
 <rect x="130" y="184" width="13" height="11" rx="5.5" fill="#4a67d6"/>
