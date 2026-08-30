@@ -74,6 +74,26 @@ pip install book-cipher-kit dns-tunnel-messenger metadata-stripper \
 <div align="center">
 <div style="max-width: 920px; margin: 1.2rem auto; padding: 1.8rem 2rem; background: rgba(22, 22, 30, 0.55); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px); border-radius: 16px; border: 1px solid rgba(122, 162, 247, 0.14); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.25);">
 
+<h2 style="font-family: 'JetBrains Mono', monospace; color: #7aa2f7; font-size: 20px; letter-spacing: 1px; margin: 0 0 1rem 0;">🧬 Low-level C Lab — Bio, Memory & Self-modifying ML</h2>
+
+Pure C (stdlib only, no Python) · JIT to x86-64 · ~15k lines · 113+ tests
+
+| Project | What it does | ★ |
+| :-- | :-- | :--: |
+| **[seqalign](https://github.com/AnonymoDGH/seqalign)** | BLAST-lite en C11: Needleman-Wunsch + Smith-Waterman Gotoh affine, BLOSUM62, k-mer CSR — 125KB, 0 deps | ![stars](https://img.shields.io/github/stars/AnonymoDGH/seqalign?style=flat&labelColor=16161e&color=16161e&logoColor=7aa2f7) |
+| **[neuro-jit](https://github.com/AnonymoDGH/neuro-jit)** | Self-modifying ML in pure C — JIT-compiles forward pass to x86-64, weights baked as immediates | ![stars](https://img.shields.io/github/stars/AnonymoDGH/neuro-jit?style=flat&labelColor=16161e&color=16161e&logoColor=7aa2f7) |
+| **[memcore](https://github.com/AnonymoDGH/memcore)** | Micro-modelo de texto en C puro que aprende continuo — memoria neuronal por sorpresa (Titans) + replay buffer | ![stars](https://img.shields.io/github/stars/AnonymoDGH/memcore?style=flat&labelColor=16161e&color=16161e&logoColor=7aa2f7) |
+| **[neuro-snake](https://github.com/AnonymoDGH/neuro-snake)** | Snake trained by heuristic imitation, recompiled with neuro-jit — **×4.35 speedup** | ![stars](https://img.shields.io/github/stars/AnonymoDGH/neuro-snake?style=flat&labelColor=16161e&color=16161e&logoColor=7aa2f7) |
+| **[gguf2bin](https://github.com/AnonymoDGH/gguf2bin)** | C99 runtime: GGUF → G2BX → inference (Qwen3/Qwen2/Llama) | ![stars](https://img.shields.io/github/stars/AnonymoDGH/gguf2bin?style=flat&labelColor=16161e&color=16161e&logoColor=7aa2f7) |
+
+</div>
+</div>
+
+---
+
+<div align="center">
+<div style="max-width: 920px; margin: 1.2rem auto; padding: 1.8rem 2rem; background: rgba(22, 22, 30, 0.55); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px); border-radius: 16px; border: 1px solid rgba(122, 162, 247, 0.14); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.25);">
+
 <h2 style="font-family: 'JetBrains Mono', monospace; color: #7aa2f7; font-size: 20px; letter-spacing: 1px; margin: 0 0 1rem 0;">📌 Featured projects</h2>
 
 | Project | Description | ★ |
@@ -86,6 +106,7 @@ pip install book-cipher-kit dns-tunnel-messenger metadata-stripper \
 | **[OurBook](https://github.com/AnonymoDGH/OurBook)** | An MCP where the agent doesn't remember your data — it remembers your story | ![stars](https://img.shields.io/github/stars/AnonymoDGH/OurBook?style=flat&labelColor=16161e&color=16161e&logoColor=7aa2f7) |
 | **[ultimate-free-llm-resources](https://github.com/AnonymoDGH/ultimate-free-llm-resources)** | The most complete collection of free LLM resources | ![stars](https://img.shields.io/github/stars/AnonymoDGH/ultimate-free-llm-resources?style=flat&labelColor=16161e&color=16161e&logoColor=7aa2f7) |
 | **[rdru-lm](https://github.com/AnonymoDGH/rdru-lm)** | Character-level LM with iterative transformer block + denoising | ![stars](https://img.shields.io/github/stars/AnonymoDGH/rdru-lm?style=flat&labelColor=16161e&color=16161e&logoColor=7aa2f7) |
+| **[nequi-clone](https://github.com/AnonymoDGH/nequi-clone)** | Nequi Clone fan-made (educativo) — WebView Android + backend mock: envíos, comprobantes, saldo contable | ![stars](https://img.shields.io/github/stars/AnonymoDGH/nequi-clone?style=flat&labelColor=16161e&color=16161e&logoColor=7aa2f7) |
 
 </div>
 </div>
