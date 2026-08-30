@@ -18,9 +18,9 @@ Security tooling · Reverse engineering · Automation · Colombia 🇨🇴
 
 <h2 style="font-family: 'JetBrains Mono', monospace; color: #7aa2f7; font-size: 20px; letter-spacing: 1px; margin: 0 0 1rem 0;">$ whoami</h2>
 
-I build security tools, reverse-engineered clients, and bots. I dig into the guts of things — Discord's webpack, the Minecraft protocol, Qwen's and Baidu's internal APIs — and turn them into clean, tested code.
+I build security tools, reverse-engineered clients, and bots — and now low-level bioinformatics in pure C. I dig into the guts of things — Discord's webpack, the Minecraft protocol, Qwen's and Baidu's internal APIs — and turn them into clean, tested code.
 
-Python and JavaScript are my stack. If it has an endpoint, an internal store, or an NBT packet, I will find it.
+Python, JavaScript and C are my stack. If it has an endpoint, an internal store, an NBT packet or a genome, I will find it.
 
 </div>
 </div>
@@ -78,6 +78,7 @@ pip install book-cipher-kit dns-tunnel-messenger metadata-stripper \
 
 | Project | Description | ★ |
 | :-- | :-- | :--: |
+| **[seqalign](https://github.com/AnonymoDGH/seqalign)** | BLAST-lite en C11 — Needleman-Wunsch, Smith-Waterman, BLOSUM62, k-mer CSR · 125KB, 0 deps, 113 tests | ![stars](https://img.shields.io/github/stars/AnonymoDGH/seqalign?style=flat&labelColor=16161e&color=16161e&logoColor=7aa2f7) |
 | **[mineflayer-schem](https://github.com/AnonymoDGH/mineflayer-schem)** | Builds structures from schematics with mineflayer · npm v1.5.2 | ![stars](https://img.shields.io/github/stars/AnonymoDGH/mineflayer-schem?style=flat&labelColor=16161e&color=16161e&logoColor=7aa2f7) |
 | **[Discord-Quest-Auto-Completer](https://github.com/AnonymoDGH/Discord-Quest-Auto-Completer)** | Completes Discord quests by injecting into the internal webpack | ![stars](https://img.shields.io/github/stars/AnonymoDGH/Discord-Quest-Auto-Completer?style=flat&labelColor=16161e&color=16161e&logoColor=7aa2f7) |
 | **[Armonia](https://github.com/AnonymoDGH/Armonia)** | Generates music from natural language · 214K scores → WAV/MIDI/ABC | ![stars](https://img.shields.io/github/stars/AnonymoDGH/Armonia?style=flat&labelColor=16161e&color=16161e&logoColor=7aa2f7) |
@@ -96,7 +97,7 @@ pip install book-cipher-kit dns-tunnel-messenger metadata-stripper \
 
 <h2 style="font-family: 'JetBrains Mono', monospace; color: #7aa2f7; font-size: 20px; letter-spacing: 1px; margin: 0 0 1rem 0;">🛠️ Stack</h2>
 
-`Python`  `JavaScript`  `TypeScript`  `Node.js`  `C`  `C++`
+`Python`  `JavaScript`  `TypeScript`  `Node.js`  `C`  `C11`  `C++`
 `pytest`  `PyPI`  `npm`  `Wireshark`  `Linux`  `Docker`  `Git`
 `React`  `Next.js`  `Webpack internals`  `Prismarine / mineflayer`
 
