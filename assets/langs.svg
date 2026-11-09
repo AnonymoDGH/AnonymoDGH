@@ -5,34 +5,34 @@
 <text x="26" y="62" font-size="11" fill="#565f89">weighted by repository size · own repos only</text>
 <text x="26" y="93" font-size="11" fill="#a9b1d6">C++</text>
 <rect x="130" y="84" width="300" height="11" rx="5.5" fill="#ffffff" fill-opacity="0.05"/>
-<rect x="130" y="84" width="139" height="11" rx="5.5" fill="#f34b7d"/>
-<text x="494" y="93" font-size="10" fill="#565f89" text-anchor="end">46.2%</text>
+<rect x="130" y="84" width="133" height="11" rx="5.5" fill="#f34b7d"/>
+<text x="494" y="93" font-size="10" fill="#565f89" text-anchor="end">44.3%</text>
 <text x="26" y="118" font-size="11" fill="#a9b1d6">Python</text>
 <rect x="130" y="109" width="300" height="11" rx="5.5" fill="#ffffff" fill-opacity="0.05"/>
-<rect x="130" y="109" width="57" height="11" rx="5.5" fill="#3572A5"/>
-<text x="494" y="118" font-size="10" fill="#565f89" text-anchor="end">19.1%</text>
+<rect x="130" y="109" width="55" height="11" rx="5.5" fill="#3572A5"/>
+<text x="494" y="118" font-size="10" fill="#565f89" text-anchor="end">18.3%</text>
 <text x="26" y="143" font-size="11" fill="#a9b1d6">JavaScript</text>
 <rect x="130" y="134" width="300" height="11" rx="5.5" fill="#ffffff" fill-opacity="0.05"/>
-<rect x="130" y="134" width="56" height="11" rx="5.5" fill="#f1e05a"/>
-<text x="494" y="143" font-size="10" fill="#565f89" text-anchor="end">18.8%</text>
+<rect x="130" y="134" width="54" height="11" rx="5.5" fill="#f1e05a"/>
+<text x="494" y="143" font-size="10" fill="#565f89" text-anchor="end">18.0%</text>
 <text x="26" y="168" font-size="11" fill="#a9b1d6">TypeScript</text>
 <rect x="130" y="159" width="300" height="11" rx="5.5" fill="#ffffff" fill-opacity="0.05"/>
-<rect x="130" y="159" width="19" height="11" rx="5.5" fill="#3178c6"/>
-<text x="494" y="168" font-size="10" fill="#565f89" text-anchor="end">6.4%</text>
-<text x="26" y="193" font-size="11" fill="#a9b1d6">HTML</text>
+<rect x="130" y="159" width="18" height="11" rx="5.5" fill="#3178c6"/>
+<text x="494" y="168" font-size="10" fill="#565f89" text-anchor="end">6.1%</text>
+<text x="26" y="193" font-size="11" fill="#a9b1d6">Assembly</text>
 <rect x="130" y="184" width="300" height="11" rx="5.5" fill="#ffffff" fill-opacity="0.05"/>
-<rect x="130" y="184" width="13" height="11" rx="5.5" fill="#e34c26"/>
-<text x="494" y="193" font-size="10" fill="#565f89" text-anchor="end">4.2%</text>
-<text x="26" y="218" font-size="11" fill="#a9b1d6">Lua</text>
+<rect x="130" y="184" width="12" height="11" rx="5.5" fill="#7aa2f7"/>
+<text x="494" y="193" font-size="10" fill="#565f89" text-anchor="end">4.1%</text>
+<text x="26" y="218" font-size="11" fill="#a9b1d6">HTML</text>
 <rect x="130" y="209" width="300" height="11" rx="5.5" fill="#ffffff" fill-opacity="0.05"/>
-<rect x="130" y="209" width="6" height="11" rx="5.5" fill="#4a67d6"/>
-<text x="494" y="218" font-size="10" fill="#565f89" text-anchor="end">2.1%</text>
-<text x="26" y="243" font-size="11" fill="#a9b1d6">Rust</text>
+<rect x="130" y="209" width="12" height="11" rx="5.5" fill="#e34c26"/>
+<text x="494" y="218" font-size="10" fill="#565f89" text-anchor="end">4.0%</text>
+<text x="26" y="243" font-size="11" fill="#a9b1d6">Lua</text>
 <rect x="130" y="234" width="300" height="11" rx="5.5" fill="#ffffff" fill-opacity="0.05"/>
-<rect x="130" y="234" width="6" height="11" rx="5.5" fill="#dea584"/>
-<text x="494" y="243" font-size="10" fill="#565f89" text-anchor="end">1.9%</text>
-<text x="26" y="268" font-size="11" fill="#a9b1d6">Smarty</text>
+<rect x="130" y="234" width="6" height="11" rx="5.5" fill="#4a67d6"/>
+<text x="494" y="243" font-size="10" fill="#565f89" text-anchor="end">2.0%</text>
+<text x="26" y="268" font-size="11" fill="#a9b1d6">Rust</text>
 <rect x="130" y="259" width="300" height="11" rx="5.5" fill="#ffffff" fill-opacity="0.05"/>
-<rect x="130" y="259" width="6" height="11" rx="5.5" fill="#f0c040"/>
-<text x="494" y="268" font-size="10" fill="#565f89" text-anchor="end">0.7%</text>
+<rect x="130" y="259" width="6" height="11" rx="5.5" fill="#dea584"/>
+<text x="494" y="268" font-size="10" fill="#565f89" text-anchor="end">1.9%</text>
 </svg>
